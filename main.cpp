@@ -2,7 +2,7 @@
 
 int main ()
 {
-	std::cout << "test" << std::endl;
+	std::cout << "message" << std::endl;
 
 	return 0;
 }
