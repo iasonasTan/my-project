@@ -1,8 +1,13 @@
 #include <iostream>
 
+using namespace std;
+
 int main ()
 {
-	std::cout << "message" << std::endl;
+	string msg = "message";
+	cout << msg << endl;
 
 	return 0;
 }
+
+// link: https://github.com/iasonasTan/my-project.git
